@@ -1,0 +1,26 @@
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+env/
+venv/
+
+# VSCode and Python IDE folders (optional)
+.vscode/
+.idea/
+
+# Output and classified files
+output/
+classified_output/
+
+# Raw data - if you don't want to track large datasets
+data/
+data1/
+
+# macOS system files
+.DS_Store
+
+# General
+*.log
+
+# If you want to ignore all PDFs
+*.pdf
